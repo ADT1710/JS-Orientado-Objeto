@@ -1,0 +1,12 @@
+{
+  "name": "javascript-orientado-a-objeto",
+  "version": "1.0.0",
+  "description": "Projeto básico de um banco em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano Dias Torralvo",
+  "license": "ISC",
+  "type": "module"
+}
